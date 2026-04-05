@@ -1,0 +1,5 @@
+[2026-03-18 19:39:55] Callback received
+{"Body":{"stkCallback":{"MerchantRequestID":"24c2-4850-98b4-27a5a5f5007b3709","CheckoutRequestID":"ws_CO_18032026193946892758270440","ResultCode":1032,"ResultDesc":"Request Cancelled by user."}}}
+
+[2026-03-18 19:39:55] Processed checkout ws_CO_18032026193946892758270440 with result 1032
+

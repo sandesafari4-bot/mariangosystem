@@ -1,0 +1,448 @@
+/* Accountant Dashboard Specific Styles */
+:root {
+    --accountant-primary: #3498db;
+    --accountant-secondary: #2980b9;
+    --accountant-success: #27ae60;
+    --accountant-danger: #e74c3c;
+    --accountant-warning: #f39c12;
+    --accountant-info: #17a2b8;
+    --accountant-light: #f8f9fa;
+    --accountant-dark: #343a40;
+}
+
+.accountant-dashboard {
+    background: #f8f9fa;
+    min-height: 100vh;
+}
+
+/* Financial Cards */
+.financial-card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    border: none;
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+.financial-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+.financial-card.income {
+    border-left: 4px solid var(--accountant-success);
+}
+
+.financial-card.expense {
+    border-left: 4px solid var(--accountant-danger);
+}
+
+.financial-card.balance {
+    border-left: 4px solid var(--accountant-primary);
+}
+
+.financial-card.pending {
+    border-left: 4px solid var(--accountant-warning);
+}
+
+/* Financial Charts */
+.financial-chart-container {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 12px;
+    padding: 1.5rem;
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+
+.financial-chart-container::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -50%;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.1);
+    transform: rotate(30deg);
+}
+
+.chart-bars {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 0.8rem;
+    height: 160px;
+    margin-top: 1.5rem;
+    position: relative;
+    z-index: 2;
+}
+
+.chart-bar-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chart-bar {
+    width: 100%;
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.6));
+    border-radius: 4px 4px 0 0;
+    min-height: 20px;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.chart-bar::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 0.2));
+}
+
+.chart-bar:hover {
+    transform: scaleY(1.05);
+}
+
+.chart-label {
+    text-align: center;
+    margin-top: 0.8rem;
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 500;
+}
+
+.chart-amount {
+    font-size: 0.7rem;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 0.2rem;
+}
+
+/* Transactions List */
+.transactions-list {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.transaction-item {
+    display: flex;
+    align-items: center;
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid #f1f3f4;
+    transition: all 0.2s ease;
+    background: white;
+}
+
+.transaction-item:hover {
+    background: #f8f9fa;
+    transform: translateX(5px);
+}
+
+.transaction-item:last-child {
+    border-bottom: none;
+}
+
+.transaction-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+    font-size: 1rem;
+}
+
+.transaction-icon.income {
+    background: rgba(39, 174, 96, 0.1);
+    color: var(--accountant-success);
+}
+
+.transaction-icon.expense {
+    background: rgba(231, 76, 60, 0.1);
+    color: var(--accountant-danger);
+}
+
+.transaction-details {
+    flex: 1;
+}
+
+.transaction-title {
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 0.2rem;
+}
+
+.transaction-meta {
+    font-size: 0.8rem;
+    color: #7f8c8d;
+}
+
+.transaction-amount {
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+.transaction-amount.income {
+    color: var(--accountant-success);
+}
+
+.transaction-amount.expense {
+    color: var(--accountant-danger);
+}
+
+/* Fee Defaulters */
+.defaulter-list {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.defaulter-item {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 8px;
+    margin-bottom: 0.75rem;
+    border-left: 4px solid var(--accountant-danger);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    transition: all 0.2s ease;
+}
+
+.defaulter-item:hover {
+    transform: translateX(3px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.defaulter-avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #ff6b6b, #ee5a24);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 600;
+    margin-right: 1rem;
+    font-size: 1.1rem;
+}
+
+.defaulter-info {
+    flex: 1;
+}
+
+.defaulter-name {
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 0.2rem;
+}
+
+.defaulter-class {
+    font-size: 0.8rem;
+    color: #7f8c8d;
+}
+
+.defaulter-balance {
+    font-weight: 700;
+    color: var(--accountant-danger);
+    font-size: 1.1rem;
+}
+
+/* Financial Summary */
+.financial-summary-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+}
+
+.summary-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.summary-stat {
+    text-align: center;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    backdrop-filter: blur(10px);
+}
+
+.summary-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+}
+
+.summary-label {
+    font-size: 0.8rem;
+    opacity: 0.9;
+}
+
+/* Progress Bars */
+.progress-container {
+    margin: 1rem 0;
+}
+
+.progress-label {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    color: #2c3e50;
+}
+
+.progress-bar {
+    height: 8px;
+    background: #ecf0f1;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.5s ease;
+}
+
+.progress-fill.collected {
+    background: linear-gradient(90deg, #27ae60, #2ecc71);
+}
+
+.progress-fill.pending {
+    background: linear-gradient(90deg, #e74c3c, #e67e22);
+}
+
+/* Quick Actions for Accountant */
+.accountant-actions {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1rem;
+}
+
+.accountant-action-btn {
+    background: white;
+    border: 2px dashed #bdc3c7;
+    border-radius: 10px;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: #7f8c8d;
+}
+
+.accountant-action-btn:hover {
+    border-color: var(--accountant-primary);
+    color: var(--accountant-primary);
+    background: rgba(52, 152, 219, 0.05);
+    transform: translateY(-2px);
+}
+
+.accountant-action-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: var(--accountant-primary);
+}
+
+.accountant-action-text {
+    font-weight: 600;
+    font-size: 0.85rem;
+}
+
+/* Receipt Preview */
+.receipt-preview {
+    background: white;
+    border: 2px dashed #bdc3c7;
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.receipt-icon {
+    font-size: 3rem;
+    color: #bdc3c7;
+    margin-bottom: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .chart-bars {
+        height: 120px;
+        gap: 0.5rem;
+    }
+    
+    .chart-label {
+        font-size: 0.7rem;
+    }
+    
+    .transaction-item {
+        padding: 0.8rem;
+    }
+    
+    .defaulter-item {
+        padding: 0.8rem;
+    }
+    
+    .summary-stats {
+        grid-template-columns: 1fr;
+    }
+    
+    .accountant-actions {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Animation for numbers */
+@keyframes countUp {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.count-up {
+    animation: countUp 0.6s ease-out;
+}
+
+/* Loading states */
+.loading-skeleton {
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+/* Print styles for receipts */
+@media print {
+    .no-print {
+        display: none !important;
+    }
+    
+    .financial-card {
+        box-shadow: none;
+        border: 1px solid #ddd;
+    }
+}

@@ -1,0 +1,27 @@
+[2026-02-20 20:06:59] Callback received:
+{"test":true}
+
+[2026-02-20 20:52:33] Callback received:
+
+
+[2026-02-20 21:11:10] Callback received:
+{"Body":{"stkCallback":{"MerchantRequestID":"55fc-46ca-b93f-397643db2b1d6412","CheckoutRequestID":"ws_CO_20022026211104138758270440","ResultCode":1032,"ResultDesc":"Request Cancelled by user."}}}
+
+[2026-02-20 21:11:10] Processing - Checkout: ws_CO_20022026211104138758270440, Code: 1032
+
+[2026-02-20 21:11:10] FAILED: Request Cancelled by user. (Code: 1032)
+
+[2026-02-20 23:13:36] Callback received:
+{"Body":{"stkCallback":{"MerchantRequestID":"96d0-4b87-9781-72f6128793dd459","CheckoutRequestID":"ws_CO_20022026231336018720000000","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached."}}}
+
+[2026-02-20 23:13:36] Processing - Checkout: ws_CO_20022026231336018720000000, Code: 1037
+
+[2026-02-20 23:13:36] WARNING: Transaction not found for checkout: ws_CO_20022026231336018720000000
+
+[2026-02-20 23:17:36] Callback received:
+{"Body":{"stkCallback":{"MerchantRequestID":"96d0-4b87-9781-72f6128793dd492","CheckoutRequestID":"ws_CO_20022026231722446745976866","ResultCode":1032,"ResultDesc":"Request Cancelled by user."}}}
+
+[2026-02-20 23:17:36] Processing - Checkout: ws_CO_20022026231722446745976866, Code: 1032
+
+[2026-02-20 23:17:37] FAILED: Request Cancelled by user. (Code: 1032)
+

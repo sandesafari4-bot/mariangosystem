@@ -1,0 +1,206 @@
+[20-Feb-2026 20:08:15 Africa/Nairobi] =================================================================================
+[20-Feb-2026 20:08:15 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-02-20 20:08:15
+[20-Feb-2026 20:08:15 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[20-Feb-2026 20:08:15 Africa/Nairobi] =================================================================================
+[20-Feb-2026 20:08:15 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[20-Feb-2026 20:08:32 Africa/Nairobi] =================================================================================
+[20-Feb-2026 20:08:32 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-02-20 20:08:32
+[20-Feb-2026 20:08:32 Africa/Nairobi] POST data keys: school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, test_mpesa, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[20-Feb-2026 20:08:32 Africa/Nairobi] =================================================================================
+[20-Feb-2026 21:09:58 Africa/Nairobi] =================================================================================
+[20-Feb-2026 21:09:58 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-02-20 21:09:58
+[20-Feb-2026 21:09:58 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[20-Feb-2026 21:09:58 Africa/Nairobi] =================================================================================
+[20-Feb-2026 21:09:58 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[22-Feb-2026 21:51:24 Africa/Nairobi] =================================================================================
+[22-Feb-2026 21:51:24 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-02-22 21:51:24
+[22-Feb-2026 21:51:24 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[22-Feb-2026 21:51:24 Africa/Nairobi] =================================================================================
+[22-Feb-2026 21:51:24 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[22-Feb-2026 22:05:17 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:05:17 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-02-22 22:05:17
+[22-Feb-2026 22:05:17 Africa/Nairobi] POST data keys: school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[22-Feb-2026 22:05:17 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:06:27 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:06:27 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-02-22 22:06:27
+[22-Feb-2026 22:06:27 Africa/Nairobi] POST data keys: school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[22-Feb-2026 22:06:27 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:06:57 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:06:57 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-02-22 22:06:57
+[22-Feb-2026 22:06:57 Africa/Nairobi] POST data keys: school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[22-Feb-2026 22:06:57 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:08:39 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:08:39 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-02-22 22:08:39
+[22-Feb-2026 22:08:39 Africa/Nairobi] POST data keys: end_maintenance
+[22-Feb-2026 22:08:39 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:08:39 Africa/Nairobi] [END_MAINTENANCE] Processing end maintenance request
+[22-Feb-2026 22:09:13 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:09:13 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-02-22 22:09:13
+[22-Feb-2026 22:09:13 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[22-Feb-2026 22:09:13 Africa/Nairobi] =================================================================================
+[22-Feb-2026 22:09:13 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[17-Mar-2026 19:54:02 Africa/Nairobi] =================================================================================
+[17-Mar-2026 19:54:02 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-17 19:54:02
+[17-Mar-2026 19:54:02 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[17-Mar-2026 19:54:02 Africa/Nairobi] =================================================================================
+[17-Mar-2026 19:54:02 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[18-Mar-2026 19:38:53 Africa/Nairobi] =================================================================================
+[18-Mar-2026 19:38:53 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-18 19:38:53
+[18-Mar-2026 19:38:53 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[18-Mar-2026 19:38:53 Africa/Nairobi] =================================================================================
+[18-Mar-2026 19:38:53 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[18-Mar-2026 19:39:08 Africa/Nairobi] =================================================================================
+[18-Mar-2026 19:39:08 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-18 19:39:08
+[18-Mar-2026 19:39:08 Africa/Nairobi] POST data keys: school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, test_mpesa, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[18-Mar-2026 19:39:08 Africa/Nairobi] =================================================================================
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:40:16 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:42:18 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:43:20 Africa/Nairobi] =================================================================================
+[19-Mar-2026 10:43:20 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-19 10:43:20
+[19-Mar-2026 10:43:20 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[19-Mar-2026 10:43:20 Africa/Nairobi] =================================================================================
+[19-Mar-2026 10:43:20 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:43:23 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:19 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:56 Africa/Nairobi] =================================================================================
+[19-Mar-2026 10:55:56 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-19 10:55:56
+[19-Mar-2026 10:55:56 Africa/Nairobi] POST data keys: end_maintenance
+[19-Mar-2026 10:55:56 Africa/Nairobi] =================================================================================
+[19-Mar-2026 10:55:56 Africa/Nairobi] [END_MAINTENANCE] Processing end maintenance request
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:55:58 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:57:25 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:58:26 Africa/Nairobi] =================================================================================
+[19-Mar-2026 10:58:26 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-19 10:58:26
+[19-Mar-2026 10:58:26 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[19-Mar-2026 10:58:26 Africa/Nairobi] =================================================================================
+[19-Mar-2026 10:58:26 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 10:58:28 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:09:35 Africa/Nairobi] =================================================================================
+[19-Mar-2026 11:09:35 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-19 11:09:35
+[19-Mar-2026 11:09:35 Africa/Nairobi] POST data keys: end_maintenance, notify_users
+[19-Mar-2026 11:09:35 Africa/Nairobi] =================================================================================
+[19-Mar-2026 11:09:35 Africa/Nairobi] [END_MAINTENANCE] Processing end maintenance request
+[19-Mar-2026 11:09:35 Africa/Nairobi] Error creating notification: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mariango_school`.`notifications`, CONSTRAINT `notifications_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE)
+[19-Mar-2026 11:09:35 Africa/Nairobi] Failed to send system online notification to festuskatana42@gmail.com: Invalid address:  (From): 
+[19-Mar-2026 11:09:35 Africa/Nairobi] Failed to send system online notification to sandesafari01@gmail.com: Invalid address:  (From): 
+[19-Mar-2026 11:09:35 Africa/Nairobi] Failed to send system online notification to susankimche@gmail.com: Invalid address:  (From): 
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:09:39 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:10:45 Africa/Nairobi] =================================================================================
+[19-Mar-2026 11:10:45 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-19 11:10:45
+[19-Mar-2026 11:10:45 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[19-Mar-2026 11:10:45 Africa/Nairobi] =================================================================================
+[19-Mar-2026 11:10:45 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:10:52 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:12:54 Africa/Nairobi] =================================================================================
+[19-Mar-2026 11:12:54 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-19 11:12:54
+[19-Mar-2026 11:12:54 Africa/Nairobi] POST data keys: end_maintenance
+[19-Mar-2026 11:12:54 Africa/Nairobi] =================================================================================
+[19-Mar-2026 11:12:54 Africa/Nairobi] [END_MAINTENANCE] Processing end maintenance request
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon_color" in C:\xampp\htdocs\mariango_school\navigation.php on line 1172
+[19-Mar-2026 11:12:56 Africa/Nairobi] PHP Warning:  Undefined array key "icon" in C:\xampp\htdocs\mariango_school\navigation.php on line 1173
+[20-Mar-2026 16:29:23 Africa/Nairobi] =================================================================================
+[20-Mar-2026 16:29:23 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-20 16:29:23
+[20-Mar-2026 16:29:23 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, google_login_enabled, google_client_id, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[20-Mar-2026 16:29:23 Africa/Nairobi] =================================================================================
+[20-Mar-2026 16:29:23 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[20-Mar-2026 19:01:30 Africa/Nairobi] =================================================================================
+[20-Mar-2026 19:01:30 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-20 19:01:30
+[20-Mar-2026 19:01:30 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, google_client_id, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[20-Mar-2026 19:01:30 Africa/Nairobi] =================================================================================
+[20-Mar-2026 19:01:30 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[20-Mar-2026 22:20:42 Africa/Nairobi] =================================================================================
+[20-Mar-2026 22:20:42 Africa/Nairobi] POST REQUEST RECEIVED AT: 2026-03-20 22:20:42
+[20-Mar-2026 22:20:42 Africa/Nairobi] POST data keys: save_settings, school_name, school_acronym, school_address, school_phone, school_email, school_website, school_motto, school_principal, academic_year, currency, timezone, date_format, items_per_page, smtp_host, smtp_port, smtp_encryption, smtp_user, smtp_pass, from_email, from_name, google_client_id, mpesa_env, mpesa_consumer_key, mpesa_consumer_secret, mpesa_passkey, mpesa_shortcode, mpesa_initiator_name, mpesa_security_credential, mpesa_callback_url, mpesa_account_reference, mpesa_transaction_desc, sms_enabled, sms_provider, sms_api_key, sms_api_secret, sms_sender_id, sms_balance_url, fee_reminders, auto_backup, login_attempts, session_timeout, maintenance_mode, maintenance_type, maintenance_start_time, maintenance_end_time, notify_on_maintenance, maintenance_message, reset_type, keep_admin, confirm_phrase
+[20-Mar-2026 22:20:42 Africa/Nairobi] =================================================================================
+[20-Mar-2026 22:20:42 Africa/Nairobi] [SAVE_SETTINGS] Starting to process save_settings action
+[22-Mar-2026 10:09:10 America/New_York] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[22-Mar-2026 10:09:16 America/New_York] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory

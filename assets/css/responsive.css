@@ -1,0 +1,175 @@
+/* Responsive utilities for Mariango School app
+   Applied globally via navigation.php and auth pages.
+   Breakpoints: mobile (<=768px), tablet (769-1024px), desktop (>=1025px)
+*/
+
+:root{
+    --container-max:1200px;
+    --gap:1rem;
+    --brand-1:#667eea;
+    --brand-2:#764ba2;
+}
+
+/* Page container */
+.app-container{
+    max-width:var(--container-max);
+    margin:0 auto;
+    padding:1rem;
+}
+
+/* Make images responsive */
+img, .logo-img, .loader-core-img, .profile-avatar{
+    max-width:100%;
+    height:auto;
+}
+
+/* Forms and inputs: full width on small screens */
+input[type="text"], input[type="email"], input[type="password"], textarea, select {
+    width:100%;
+    box-sizing:border-box;
+}
+
+/* Tables: responsive wrapper */
+.table-responsive{ overflow-x:auto; -webkit-overflow-scrolling:touch; }
+.table-responsive table{ width:100%; border-collapse:collapse; }
+
+/* Make small table cells wrap and truncate softly */
+.table-responsive td, .table-responsive th{ white-space:nowrap; }
+
+/* Utility spacing */
+.u-row{ display:flex; gap:var(--gap); }
+.u-col{ flex:1 1 0; }
+
+/* Nav tweaks already in navigation.php; add mobile rules here */
+@media (max-width: 1024px){
+    .nav-center{ display:none !important; }
+    .nav-container{ padding:0 1rem; }
+}
+
+@media (max-width: 768px){
+    .top-navbar{ height:64px; }
+    .logo { width:40px; height:40px; }
+    .school-info h1{ font-size:1rem; }
+    .school-info p{ display:none; }
+
+    /* Sidebar behavior: class `mobile-open` should make it visible */
+    #sidebar{ position:fixed; inset:0 0 0 auto; width:280px; transform:translateX(-110%); transition:transform .25s ease; z-index:9998; }
+    #sidebar.mobile-open{ transform:translateX(0); }
+
+    /* Top navbar compact actions */
+    .user-section{ gap:0.6rem; }
+    .nav-action-btn{ padding:0.4rem 0.6rem; font-size:0.8rem; }
+
+    /* Make dropdowns full width within viewport to avoid overflow */
+    .notifications-dropdown, .messages-dropdown, .user-dropdown{ right: 10px !important; left: auto; width: calc(100vw - 40px); max-width: 360px; }
+}
+
+/* Sidebar (desktop & collapse behavior) */
+#sidebar, .sidebar {
+    width: 280px;
+    position: fixed;
+    left: 0;
+    top: 70px;
+    height: calc(100vh - 70px);
+    transition: transform .25s ease, width .25s ease;
+    z-index: 999;
+}
+
+.sidebar.collapsed, #sidebar.collapsed {
+    width: 70px;
+}
+
+/* Overlay/backdrop used on mobile when sidebar is open. JS should toggle .active */
+.sidebar-backdrop {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.45);
+    z-index: 998;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    pointer-events: none;
+}
+
+.sidebar-backdrop.active {
+    display: block;
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* Small adjustments for very small devices */
+@media (max-width: 420px){
+    .top-navbar{ padding:0; }
+    .nav-container{ padding:0 .5rem; }
+    .logo { width:34px; height:34px; }
+}
+
+/* Responsive helper for cards and panels */
+.responsive-card{ padding:1rem; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.06); background:var(--card-bg, #fff); }
+
+/* Modal - centralized, responsive, and consistent across pages */
+/*
+  Usage: keep markup as <div class="modal"> <div class="modal-content">...</div> </div>
+  Add the class `active` or `show` to the `.modal` element to display it.
+*/
+.modal, .dialog {
+    position: fixed;
+    inset: 0; /* top:0; right:0; bottom:0; left:0 */
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0,0,0,0.45);
+    padding: 1rem; /* keeps modal away from viewport edges on small screens */
+    z-index: 2000;
+}
+
+/* Known JS may toggle either `active` or `show` — support both */
+.modal.active, .modal.show, .dialog.active, .dialog.show {
+    display: flex;
+}
+
+.modal-content, .dialog > .modal-content, .dialog-content {
+    width: 90%;
+    max-width: 600px;
+    max-height: 90vh;
+    overflow-y: auto;
+    background: var(--card-bg, #fff);
+    border-radius: 8px;
+    box-shadow: 0 10px 32px rgba(0,0,0,0.18);
+}
+
+/* Smaller dialogs on mobile */
+@media (max-width: 768px) {
+    .modal-content, .dialog > .modal-content, .dialog-content {
+        width: calc(100% - 32px);
+        max-width: none;
+        border-radius: 6px;
+    }
+}
+
+/* Provide a high-specificity fallback in case files include weaker inline modal rules */
+.modal .modal-content, .dialog .modal-content { box-sizing: border-box; }
+
+/* Accessibility: ensure focus outlines visible */
+:focus{ outline:2px solid rgba(102,126,234,0.35); outline-offset:2px; }
+
+/* Misc tweaks for tables: allow wrapping of long text cells */
+.table-wrap-break { white-space:normal; word-break:break-word; }
+
+/* Strong overrides to enforce centering when page-level styles conflict.
+   Use sparingly; these rules ensure modals are centered across all pages. */
+html body .modal, html body .dialog {
+    position: fixed !important;
+    inset: 0 !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background: rgba(0,0,0,0.45) !important;
+    padding: 1rem !important;
+}
+html body .modal.active, html body .modal.show, html body .dialog.active, html body .dialog.show {
+    display: flex !important;
+}
+html body .modal .modal-content, html body .dialog .modal-content {
+    max-height: calc(100vh - 48px) !important;
+    overflow: auto !important;
+}
